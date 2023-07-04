@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getValue",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/FirstFunction.sol": "FirstFunction"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/FirstFunction.sol": {
+			"keccak256": "0x349cd0582f71b3229f8e6924791b12b57407a56364c375da702ef631369ca502",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b1a7525007b73cf468eca0d4e547411f67f4024e74be379cce3838bb5ec3f2eb",
+				"dweb:/ipfs/QmfQAy8tucdzVCSGZAjgiumF9685xh5ifv4MNwrrzNeYjW"
+			]
+		}
+	},
+	"version": 1
+}
